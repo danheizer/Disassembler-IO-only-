@@ -1,5 +1,5 @@
 *-----------------------------------------------------------
-* Title      : Ascii string to hex conversion
+* Title      : IO portion of disassembler
 * Written by : Dan Heizer
 * Date       : 11/12
 * Description: 
