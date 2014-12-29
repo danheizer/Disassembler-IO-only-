@@ -9,6 +9,7 @@
 *   4. Loops from start to end, printing each address as a 6 digit num
 *   5. Every 30 lines of output, the user must press enter to continue.
 *   6. Once the end is reached, the user is asked if they would like to run again.
+Note: Written for easy68K, a free Motorola 6800 emulator.
 *-----------------------------------------------------------
     ORG    $1000
 START 
